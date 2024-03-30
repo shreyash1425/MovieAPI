@@ -1,14 +1,9 @@
 # Movie Land
 <p align="center">
-Movie-land is built with react, deployed with docker, and hosted on heroku. <br>
+Movie-land is built with react.js.<br>
 Movie-land is api based website that is used to search for movies, and display the results.
 </p>
 
-![Movie-land](https://user-images.githubusercontent.com/44284877/180235632-4e08106e-e900-42d0-9860-553f700575ad.png)
-<p align="center">
-    👨‍💻 Website link:
-    <a href="https://movieapp-docker.herokuapp.com/"> Movie-land </a>
-</p>
 
 <p align="center">
     Search movie name and get the results.
@@ -40,10 +35,6 @@ Before installation, please make sure you have already installed the following t
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**.
 - Check out our [contribution guidelines](/CONTRIBUTING.md) for more information.
-
-## 🛡️ License
-
-Movie-land is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Support
 
